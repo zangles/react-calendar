@@ -1,0 +1,50 @@
+[
+  {
+    "contact": {
+      "id": 1,
+      "name" : "Anako"
+    },
+    "date": "2019-01-10 10:00:00",
+    "turn_type": "morning"
+  },
+  {
+    "contact": {
+      "id": 2,
+      "name" : "Zangles"
+    },
+    "date": "2019-01-10 15:30:00",
+    "turn_type": "noon"
+  },
+  {
+    "contact": {
+      "id": 2,
+      "name" : "Zangles"
+    },
+    "date": "2019-01-11 16:00:00",
+    "turn_type": "noon"
+  },
+  {
+    "contact": {
+      "id": 2,
+      "name" : "Zangles"
+    },
+    "date": "2019-01-12 22:30:00",
+    "turn_type": "night"
+  },
+  {
+    "contact": {
+      "id": 2,
+      "name" : "Zangles"
+    },
+    "date": "2019-01-13 22:30:00",
+    "turn_type": "night"
+  },
+  {
+    "contact": {
+      "id": 1,
+      "name" : "Anako"
+    },
+    "date": "2019-01-13 18:00:00",
+    "turn_type": "day"
+  }
+]
